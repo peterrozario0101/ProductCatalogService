@@ -1,4 +1,4 @@
-package com.example.produccatalogservice.models;
+package com.example.productcatalogservice.models;
 
 public enum State {
     ACTIVE,
